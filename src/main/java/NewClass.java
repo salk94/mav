@@ -10,9 +10,14 @@
  */
 public class NewClass {
     
-    public static void main (String Args[]){
     
-    System.out.println("ciao a tutti");
+    
+    
+    
+    
+           public static void main (String Args[]){
+    
+                                                            System.out.println("ciao a tutti");
     
     
     
