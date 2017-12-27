@@ -24,7 +24,7 @@ Any value defined here will override the pom.xml file value but is only applicab
         <de-markiewb-netbeans-plugins-eclipse-formatter46.eclipseFormatterLocation>C:\Users\dom\Downloads\Formatter.xml</de-markiewb-netbeans-plugins-eclipse-formatter46.eclipseFormatterLocation>
         <de-markiewb-netbeans-plugins-eclipse-formatter46.showNotifications>true</de-markiewb-netbeans-plugins-eclipse-formatter46.showNotifications>
         <de-markiewb-netbeans-plugins-eclipse-formatter46.eclipseFormatterEnabled>true</de-markiewb-netbeans-plugins-eclipse-formatter46.eclipseFormatterEnabled>
-        <de-markiewb-netbeans-plugins-eclipse-formatter46.enableFormatAsSaveAction>false</de-markiewb-netbeans-plugins-eclipse-formatter46.enableFormatAsSaveAction>
+        <de-markiewb-netbeans-plugins-eclipse-formatter46.enableFormatAsSaveAction>true</de-markiewb-netbeans-plugins-eclipse-formatter46.enableFormatAsSaveAction>
         <de-markiewb-netbeans-plugins-eclipse-formatter46.sourcelevel/>
         <de-markiewb-netbeans-plugins-eclipse-formatter46.useProjectSettings>true</de-markiewb-netbeans-plugins-eclipse-formatter46.useProjectSettings>
     </properties>
