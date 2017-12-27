@@ -7,7 +7,7 @@ sudo: false
 
 before_install:
   - mvn checkstyle:check
-
+install: true
 script: "mvn cobertura:cobertura"
   
 after_success:
